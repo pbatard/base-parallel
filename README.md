@@ -1,10 +1,9 @@
-base-console: A win32 console application template
-==================================================
+base-parallel: A win32 parallel task template
+=============================================
 
-[![Build status](https://img.shields.io/appveyor/ci/pbatard/base-console.svg?style=flat-square)](https://ci.appveyor.com/project/pbatard/base-console)
-[![Release](https://img.shields.io/github/release-pre/pbatard/base-console.svg?style=flat-square)](https://github.com/pbatard/base-console/releases)
-[![Github stats](https://img.shields.io/github/downloads/pbatard/base-console/total.svg?style=flat-square)](https://github.com/pbatard/base-console/releases)
+[![Build status](https://img.shields.io/appveyor/ci/pbatard/base-parallel.svg?style=flat-square)](https://ci.appveyor.com/project/pbatard/base-parallel)
+[![Release](https://img.shields.io/github/release-pre/pbatard/base-parallel.svg?style=flat-square)](https://github.com/pbatard/base-parallel/releases)
+[![Github stats](https://img.shields.io/github/downloads/pbatard/base-parallel/total.svg?style=flat-square)](https://github.com/pbatard/base-parallel/releases)
 [![Licence](https://img.shields.io/badge/license-GPLv3-blue.svg?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
-Because sometimes I have to create a win32 console application in a hurry and the Visual Studio
-defaults are hopeless.
+A base sample for running a CPU-heavy task against multiple core/CPUs.
